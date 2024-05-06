@@ -1,5 +1,16 @@
-# 🗝️ KeyCard Rooms
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
+# ℹ️ Introduction
 
-
-## Getting Started
