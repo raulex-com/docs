@@ -1,5 +1,2 @@
-# Raulex
+# 💻 Console
 
-
-
-## Getting Started
