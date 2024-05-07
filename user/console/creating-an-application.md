@@ -6,7 +6,7 @@ For each **server instance** you own or intend to use the mod on, there have to 
 
 #### Step 1: [Open your console](access-your-console.md)
 
-#### Step 2: Click on <mark style="color:yellow;">Create new Application</mark> [<mark style="color:yellow;">🚀</mark>](https://emojipedia.org/rocket)
+#### Step 2: Click on <mark style="color:yellow;">Create new Application 🚀</mark>
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
