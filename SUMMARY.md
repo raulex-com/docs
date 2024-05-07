@@ -2,7 +2,7 @@
 
 * [ℹ️ Introduction](README.md)
 
-## User
+## 🖲️ User
 
 * [💻 Console](<README (1).md>)
   * [🕹️ Access your console](user/console/access-your-console.md)
