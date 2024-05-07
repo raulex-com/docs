@@ -8,11 +8,11 @@ For each **server instance** you own or intend to use the mod on, there have to 
 
 #### Step 2: Click on <mark style="color:yellow;">Create new Application 🚀</mark>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3: Enter your Application name
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p> </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p> </p></figcaption></figure>
 
 {% hint style="warning" %}
 **Note:** Each server you own should have its **own application**. Your **test server** should also have it's **own app**.

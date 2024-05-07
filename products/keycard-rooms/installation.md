@@ -31,7 +31,7 @@ You can download the PBOs from your console through your console and add it to y
 
 * Make sure you have added both <mark style="color:orange;">**RaulexCore**</mark> and <mark style="color:orange;">**RaulexKeyCardRooms**</mark> to your modpack.
 
-<figure><img src="../../.gitbook/assets/Untitled (3).png" alt=""><figcaption><p>Download <strong>PBOs</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (3) (1).png" alt=""><figcaption><p>Download <strong>PBOs</strong></p></figcaption></figure>
 
 ### Step 2. Set your application credentials.
 
@@ -39,7 +39,7 @@ Start your server for the first time after you have installed the mod, this will
 
 1. Click on the <mark style="color:orange;">View API Key</mark> button to get **apikey** for your application.
 
-<figure><img src="../../.gitbook/assets/Untitled (2).png" alt=""><figcaption><p><strong>View API Key</strong> button in your application panel.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Untitled (2) (1).png" alt=""><figcaption><p><strong>View API Key</strong> button in your application panel.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>API Key shown once <strong>View API Key</strong> is clicked.</p></figcaption></figure>
 
