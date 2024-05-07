@@ -17,7 +17,7 @@ First, make sure you are a member of our [official discord server](https://disco
 
 ## Installation
 
-### Step 1. Install KeyCard Rooms Mod on your server.
+### Step 1. Install the mod <a href="#install-the-mod" id="install-the-mod"></a>
 
 There are **two methods** to install the mod on to your server.
 
@@ -35,7 +35,7 @@ You can download the PBOs from your console through your console and add it to y
 
 <figure><img src="../../.gitbook/assets/Untitled (3).png" alt=""><figcaption><p>Download <strong>PBOs</strong></p></figcaption></figure>
 
-### Step 2. Add your <mark style="color:green;">appId</mark> and <mark style="color:green;">apikey</mark> to your config folder and start the server.
+### Step 2. Set your application credentials.
 
 Start your server for the first time after you have installed the mod, this will generate a profiles folder called **RaulexCore**.
 
