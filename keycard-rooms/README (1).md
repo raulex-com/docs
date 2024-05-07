@@ -1,5 +1,0 @@
-# 🗝️ KeyCard Rooms
-
-
-
-## Getting Started
