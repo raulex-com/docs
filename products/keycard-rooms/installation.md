@@ -1,7 +1,5 @@
 # 🚀 Installation
 
-
-
 First, make sure you are a member of our [official discord server](https://discord.raulex.com) and have a trial or full version of [Raulex KeyCard Rooms](https://discord.com/channels/879567396472500244/1231621287227556001) which you have bought from our user panel.
 
 <div align="center">
@@ -51,7 +49,15 @@ Start your server for the first time after you have installed the mod, this will
 
 <figure><img src="../../.gitbook/assets/Screenshot 2024-05-07 200231 (1).jpg" alt=""><figcaption><p>Open <mark style="color:orange;"><strong>config.json</strong></mark> inside <mark style="color:orange;"><strong>RaulexCore</strong></mark></p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Untitled (6).png" alt=""><figcaption><p>Fill in your <mark style="color:orange;"><strong>appId</strong></mark> and <mark style="color:orange;"><strong>apiKey</strong></mark></p></figcaption></figure>
+Change your config.json so that it looks like this (Fill in your own **appId** and **apiKey**):
+
+```json
+{
+    "appId": "raulex-app-07efda3b-0033-43f9-a147-XXXXXXXXXX",
+    "apiKey": "raulex-api-key-94983413-7f86-4285-9807-XXXXXXXXXX",
+    "forceShutDownOnFailure": 1
+}
+```
 
 ### Step 3: Restart your server
 
