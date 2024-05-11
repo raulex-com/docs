@@ -1,19 +1,8 @@
 # 🚪 Adding a new door
 
-### Step 1: Use the in-game tool&#x20;
-
+{% hint style="info" %}
 Use the <mark style="color:orange;">RaulexKeyCardRoomsConverter</mark> which can be spawned in from your admin menu and use it on any door to add a new door to your config.&#x20;
-
-### Step 2: Edit the new door
-
-Once you have used the **tool** on any **door**, a **new entry** for door will be automatically **added** to your **config**.\
-\
-**Download** your **App config** again from your **console** to see the **new entry**. Then you may edit the door config according to your requirements. Refer [#understanding-door-schema](adding-a-new-door.md#understanding-door-schema "mention").\
-
-
-
-
-
+{% endhint %}
 
 ## 🤔Understanding Door Schema
 

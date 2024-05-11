@@ -14,5 +14,5 @@
 * [🔑 KeyCard Rooms](products/keycard-rooms/README.md)
   * [⏳ Claiming free trial](products/keycard-rooms/claiming-free-trial.md)
   * [🚀 Installation](products/keycard-rooms/installation.md)
-  * [🔧 Modifying Configs](products/keycard-rooms/modifying-configs.md)
-  * [🚪 Adding a new door](products/keycard-rooms/adding-a-new-door.md)
+  * [🔧 Modifying Configs](products/keycard-rooms/modifying-configs/README.md)
+    * [🚪 Adding a new door](products/keycard-rooms/modifying-configs/adding-a-new-door.md)
