@@ -7,7 +7,6 @@
 * [💻 Console](user/console/README.md)
   * [🕹️ Access your console](user/console/access-your-console.md)
   * [🚀 Creating an Application](user/console/creating-an-application.md)
-  * [🛡️ Config Validator](user/readme/config-validator.md)
 
 ## 📦 Products
 
