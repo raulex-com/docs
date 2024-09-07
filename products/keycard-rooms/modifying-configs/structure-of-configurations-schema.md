@@ -52,7 +52,7 @@ inventory:
         inventory: # items to be added as attachments/cargo.
           - item: ACOGOptic
             inventory: 
-              - Battery9V
+              - item: Battery9V
           - item: Mag_STANAG_30Rnd
       - item: Paragon_SRS
         chance: 500
@@ -65,7 +65,7 @@ inventory:
       inventory:
         - item: ACOGOptic
           inventory: 
-            - Battery9V
+            - item: Battery9V
         - item: Mag_STANAG_30Rnd
     - item: Paragon_SRS
       inventory:
