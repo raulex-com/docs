@@ -16,6 +16,7 @@ The **config.yaml** file serves as the primary configuration for the Capture the
   * **recaptureTime**: (integer) The time (in seconds) required to recapture the flag. Must be a positive integer.
   * **broadCastRadius**: (integer) The radius (in meters) within which the flag carrier's status is visible to other players. Must be a positive integer.
   * **beepSoundName**: (string) The name of the sound played when the flag is picked up or dropped. Must be at least one character long.
+  * **timeToReturnFlag:** (integer) Time (in seconds) before mission times out if flag has not reached the destination after capture.
   * **zombieConfig**: (object) Configuration settings for zombies in the zone, including:
     * **numWaves**: (integer) The number of zombie waves that will spawn. Must be a non-negative integer.
     * **min**: (integer) Minimum number of zombies in each wave. Must be a non-negative integer.
@@ -39,6 +40,7 @@ zone:
   broadCastRadius: 60                   # Radius (in meters) for broadcasting the carrier's position
   beepSoundName: CTFFlagBeepSound       # Sound played when the flag is picked up or dropped
   beepInterval: 5                       # Interval (in seconds) for the beep sound
+  timeToReturnFlag: 3600                # Time (in seconds) before mission times out if flag has not reached the destination after capture.
   zombieConfig:                         # Configuration for zombie waves
     numWaves: 2                         # Number of zombie waves
     min: 2                               # Minimum number of zombies in each wave

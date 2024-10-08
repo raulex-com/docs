@@ -14,6 +14,7 @@ The **zone schema** defines the configuration for each zone within the Capture t
   * **recaptureTime**: (integer) The time (in seconds) required to recapture the flag.
   * **broadCastRadius**: (integer) The radius (in meters) within which the flag capture progress is visible to other players.&#x20;
   * **beepSoundName**: (string) The sound played when the flag is picked up or dropped.
+  * **timeToReturnFlag:** (integer) Time (in seconds) before mission times out if flag has not reached the destination after capture.
   * **zombieConfig**: (optional object) Configuration settings for zombies in the zone, including:
     * **numWaves**: (integer) The number of zombie waves that will spawn.
     * **min**: (integer) Minimum number of zombies in each wave.
@@ -47,6 +48,7 @@ zone:
   recaptureTime: 10
   broadCastRadius: 60
   beepSoundName: CTFFlagBeepSound
+  timeToReturnFlag: 3600                # Time (in seconds) before mission times out if flag has not reached the destination after capture.
   zombieConfig:
     numWaves: 2
     min: 2
